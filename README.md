@@ -2,4 +2,4 @@
 Daniel King and Danny Gorelik
 
 Change 1.
-Change 2.
+Change conflict!.
